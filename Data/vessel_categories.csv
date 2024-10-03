@@ -1,0 +1,25 @@
+report_vessel_type,cat_type,econ_vessel_type
+Undetermined,Undetermined,Undetermined
+Towing/Pushing,Towing/Pushing,Towing/Pushing
+Pleasure,Pleasure,Recreational
+Tanker,Tanker,Commercial Shipping
+Ro-Ro,Ro-Ro,Commercial Shipping
+Pollution Control Vessel,Other,Exempt
+Port Tenders/Offshore Work Vessel,Work Vessel,Industrial Work
+Other Passenger,Other Passenger,Passenger (Non Cruise)
+Container,Container,Commercial Shipping
+Fishing,Fishing,Commercial Fishing
+Dredging,Dredging,Industrial Work
+Passenger (Cruise),Passenger (Cruise),Passenger (Cruise)
+Pilot,Other,Pilot
+Other,Other,Other
+Research,Other,Other
+General Cargo,General Cargo,Commercial Shipping
+Bulk Carrier,Bulk Carrier,Commercial Shipping
+Military,Other,Exempt
+Sailing,Other,Sailing
+Search and Rescue,Other,Exempt
+Law,Other,Exempt
+Resol-18,Other,Exempt
+Medical,Other,Exempt
+Other Cargo,Other Cargo,Commercial Shipping

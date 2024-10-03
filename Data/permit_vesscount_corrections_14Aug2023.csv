@@ -1,0 +1,89 @@
+econ_vessel_type,size_5ft,permit.vess.count,ais.vess.count,collapse.type
+Commercial Fishing,26-30,732,44,Commercial Fishing
+Commercial Shipping,26-30,6,0,Other
+Exempt,26-30,0,186,Exempt
+Industrial Work,26-30,5,17,Other
+Other,26-30,55,25,Other
+Passenger (Non Cruise),26-30,461,5,Pass-Rec
+Pilot,26-30,1,2,Pilot
+Recreational,26-30,8220,709,Pass-Rec
+Sailing,26-30,0,0,Pass-Rec
+Towing/Pushing,26-30,14,36,Other
+Undetermined,26-30,9494,1024,Undetermined
+Commercial Fishing,30-35,1852,376,Commercial Fishing
+Commercial Shipping,30-35,7,1,Other
+Exempt,30-35,0,42,Exempt
+Industrial Work,30-35,38,6,Other
+Other,30-35,77,15,Other
+Passenger (Non Cruise),30-35,886,10,Pass-Rec
+Pilot,30-35,3,1,Pilot
+Recreational,30-35,15897,1009,Pass-Rec
+Sailing,30-35,0,0,Pass-Rec
+Towing/Pushing,30-35,26,8,Other
+Undetermined,30-35,18786,1468,Undetermined
+Commercial Fishing,35-40,3429,163,Commercial Fishing
+Commercial Shipping,35-40,8,0,Other
+Exempt,35-40,1,1,Exempt
+Industrial Work,35-40,25,16,Other
+Other,35-40,71,34,Other
+Passenger (Non Cruise),35-40,1515,36,Pass-Rec
+Pilot,35-40,4,3,Pilot
+Recreational,35-40,15029,1674,Pass-Rec
+Sailing,35-40,30,1690,Pass-Rec
+Towing/Pushing,35-40,33,12,Other
+Undetermined,35-40,20144,3628,Undetermined
+Commercial Fishing,40-45,1966.5,118,Commercial Fishing
+Commercial Shipping,40-45,19,0,Other
+Exempt,40-45,1,1,Exempt
+Industrial Work,40-45,30,4,Other
+Other,40-45,61,6,Other
+Passenger (Non Cruise),40-45,961.5,5,Pass-Rec
+Pilot,40-45,4,3,Pilot
+Recreational,40-45,9131,840,Pass-Rec
+Sailing,40-45,14,962,Pass-Rec
+Towing/Pushing,40-45,47,17,Other
+Undetermined,40-45,12234,1955,Undetermined
+Commercial Fishing,45-50,897,505,Commercial Fishing
+Commercial Shipping,45-50,17,1,Other
+Exempt,45-50,1,1,Exempt
+Industrial Work,45-50,39,11,Other
+Other,45-50,31,16,Other
+Passenger (Non Cruise),45-50,614,34,Pass-Rec
+Pilot,45-50,4,8,Pilot
+Recreational,45-50,4313,1450,Pass-Rec
+Sailing,45-50,8,1456,Pass-Rec
+Towing/Pushing,45-50,35,19,Other
+Undetermined,45-50,5958,3500,Undetermined
+Commercial Fishing,50-55,300,92,Commercial Fishing
+Commercial Shipping,50-55,7,0,Other
+Exempt,50-55,1,1,Exempt
+Industrial Work,50-55,15,1,Other
+Other,50-55,34,6,Other
+Passenger (Non Cruise),50-55,350,9,Pass-Rec
+Pilot,50-55,11,2,Pilot
+Recreational,50-55,2334,568,Pass-Rec
+Sailing,50-55,2,374,Pass-Rec
+Towing/Pushing,50-55,37,10,Other
+Undetermined,50-55,3090,1062,Undetermined
+Commercial Fishing,55-60,279.5,74,Commercial Fishing
+Commercial Shipping,55-60,7,0,Other
+Exempt,55-60,1,1,Exempt
+Industrial Work,55-60,12,4,Other
+Other,55-60,15,9,Other
+Passenger (Non Cruise),55-60,321.5,23,Pass-Rec
+Pilot,55-60,2,12,Pilot
+Recreational,55-60,1260,740,Pass-Rec
+Sailing,55-60,0,305,Pass-Rec
+Towing/Pushing,55-60,57,36,Other
+Undetermined,55-60,1954,1203,Undetermined
+Commercial Fishing,60-65,288,34,Commercial Fishing
+Commercial Shipping,60-65,90,0,Other
+Exempt,60-65,1,1,Exempt
+Industrial Work,60-65,16,2,Other
+Other,60-65,19,6,Other
+Passenger (Non Cruise),60-65,342,9,Pass-Rec
+Pilot,60-65,2,1,Pilot
+Recreational,60-65,949,251,Pass-Rec
+Sailing,60-65,5,78,Pass-Rec
+Towing/Pushing,60-65,49,8,Other
+Undetermined,60-65,1760,389,Undetermined
