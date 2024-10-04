@@ -10,6 +10,6 @@ Step 2: Step2_Post_RiskModel_Calculate_Mortality.R - organizes bootstrap results
 
 output files: a) e.g., "risk_model_summary_table_L.csv" ; b) e.g., "Avoid_tot_strike_Slow_None_L_2017.csv" ; c) e.g., "No_Avoid_tot_strike_Slow_None_L_2017.csv"
 
-Step 3: Step3_Plot_Mortality.R - creates barplots of mortality for publication; also plots results with and without inclusion of the avoidance parameter (i.e., Figure 8)
+Step 3: Step3_Plot_Mortality.R - creates barplots of mortality for publication; also plots results with and without inclusion of the avoidance parameter 
 
 Step 4: Step4_ProduceMaps.R - Applies risk model to spatial grid and exports results as shapefile; plots risk model results spatially as maps with and without avoidance parameter 
