@@ -13,3 +13,8 @@ output files: a) e.g., "risk_model_summary_table_L.csv" ; b) e.g., "Avoid_tot_st
 Step 3: Step3_Plot_Mortality.R - creates barplots of mortality for publication; also plots results with and without inclusion of the avoidance parameter 
 
 Step 4: Step4_ProduceMaps.R - Applies risk model to spatial grid and exports results as shapefile; plots risk model results spatially as maps with and without avoidance parameter 
+
+
+The North Atlantic right whale density surfaces are available at: https://seamap.env.duke.edu/models/Duke/EC/EC_North_Atlantic_right_whale_history.html
+
+The datasets specifically used in this study and code example may be made available upon reasonable request.
